@@ -1,6 +1,6 @@
-# cat-meme
-### this is my demo
-* __I love stats 220__
+# stats220
+### This is my demo for stats 220
+* __I will explain the purpose of repos__
 * _This is cool_
 
 1. first
